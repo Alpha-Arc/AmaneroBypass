@@ -3,8 +3,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string>
-#include <regex>
 #include <TlHelp32.h>
+
 unsigned char target[6] = { 0x74, 0x19, 0x8B, 0x85, 0x78, 0xFF };
 unsigned char repack[6] = { 0xEB, 0x19, 0x8B, 0x85, 0x78, 0xFF };
 
