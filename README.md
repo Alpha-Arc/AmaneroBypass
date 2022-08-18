@@ -3,6 +3,10 @@
 
 This tool can bypass the device validation of ConfigTool.exe by Amanero
 
+## 注意 仅支持64位windows系统
+
+## Warning, only 64-bit Windows systems are supported
+
 对[AmaneroOemToolBypass](https://github.com/sabpprook/AmaneroOemToolBypass)工具的C++重构
 
 C++ refactoring of the [AmaneroOemToolBypass](https://github.com/sabpprook/AmaneroOemToolBypass) tool
