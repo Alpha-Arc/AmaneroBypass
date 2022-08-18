@@ -55,6 +55,7 @@ int main()
 	if (!pid)
 	{
 		printf("Please Open The \"ConfigTool.exe\"\nAnd Restart This Program\n");
+		system("pause");
 		return 0;
 	}
 	HANDLE process = OpenProcess(PROCESS_ALL_ACCESS, false, pid);
