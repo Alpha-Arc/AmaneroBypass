@@ -9,7 +9,11 @@ This tool can bypass the device validation of ConfigTool.exe by Amanero
 
 对[AmaneroOemToolBypass](https://github.com/sabpprook/AmaneroOemToolBypass)工具的C++重构
 
+相比[AmaneroOemToolBypass](https://github.com/sabpprook/AmaneroOemToolBypass)速运行度有所提升
+
 C++ refactoring of the [AmaneroOemToolBypass](https://github.com/sabpprook/AmaneroOemToolBypass) tool
+
+Improved the running speed than the [AmaneroOemToolBypass](https://github.com/sabpprook/AmaneroOemToolBypass)
 
 ## 使用方法
 
